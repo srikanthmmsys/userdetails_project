@@ -15,7 +15,7 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ### `run json server`
-use command in command prompt [json-server --watch db.json --port 3030]
+use command in command prompt "json-server --watch db.json --port 3030"
 
 ### `npm test`
 
